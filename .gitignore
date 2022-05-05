@@ -4,3 +4,4 @@ artifacts
 .vscode
 deployments
 .DS_Store
+yarn.lock
